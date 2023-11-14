@@ -1189,11 +1189,3 @@ section .container {
   color: #fff;
 }
 
-.form-group span{
-  position: absolute;
-  bottom: 12px;
-  right: 17px;
-  font-size: 14px;
-  color:#ed3c0d;
-
-}
